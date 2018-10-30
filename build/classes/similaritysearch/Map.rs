@@ -1,0 +1,2 @@
+similaritysearch.Map
+similaritysearch.HashNode
